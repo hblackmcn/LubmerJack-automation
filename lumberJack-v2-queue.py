@@ -18,8 +18,14 @@ isLeftDetected = False
 isRightDetected = False
 
 ap.mouse.move(200,305)
+
+#Check if you are still in the game
 while ap.color.hex_to_rgb(ap.screen.get_color(250,405))[0]==155:
+    
+    #RGB color of the left branch
     rgbL = ap.color.hex_to_rgb(ap.screen.get_color(200,305))
+    
+    #RGB color of the right branch
     rgbR = ap.color.hex_to_rgb(ap.screen.get_color(300,305))
     
     if rgbL[0]==155 and isLeftDetected==False: 
