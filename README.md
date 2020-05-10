@@ -2,6 +2,10 @@
 
 This code can play LubmerJack game for you
 
+Click on below image to watch the recorded video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A9mZVdYDYr8/0.jpg)](https://www.youtube.com/watch?v=A9mZVdYDYr8&feature=youtu.be)
+
+
 # Dependency
 You need to install autopu to conrol mouse and keyboard and check RBG color of screen
 ```sh
