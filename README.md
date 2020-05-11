@@ -16,7 +16,7 @@ Click on below image to watch the recorded video
 
 
 # Dependency
-You need to install autopu to conrol mouse and keyboard and check RBG color of screen
+You need to install autopy to conrol mouse and keyboard and check RBG color of screen
 ```sh
 $ pip install -U autopy
 ```
