@@ -12,7 +12,7 @@ v2-> using queue based method
 
 Click on below image to watch the recorded video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/A9mZVdYDYr8/0.jpg)](https://youtu.be/3Ypdr9eTFzs)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3Ypdr9eTFzs/0.jpg)](https://youtu.be/3Ypdr9eTFzs)
 
 
 # Dependency
